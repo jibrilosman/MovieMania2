@@ -7,6 +7,10 @@ a.navbar-brand[b-35c3ry8tgu] {
   word-break: break-all;
 }
 
+.navbar > img[b-35c3ry8tgu] {
+   width: 100px;
+}
+
 a[b-35c3ry8tgu] {
   color: #0077cc;
 }

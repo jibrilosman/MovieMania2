@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5DuKyayiCkiUiy2ho8UvCbIFdTl3NzZhK+nlxfKI8Yw=",
+  "Hash": "3q/jAkXqlEkhiwKFDCEaaRTD6YR+SvVQLItq+KNk7mI=",
   "Source": "MovieMania",
   "BasePath": "_content/MovieMania",
   "Mode": "Default",
@@ -253,6 +253,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\superhero.jpg"
+    },
+    {
+      "Identity": "D:\\C#\\practice\\MovieMania\\wwwroot\\assets\\images\\tmdb.png",
+      "SourceId": "MovieMania",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\practice\\MovieMania\\wwwroot\\",
+      "BasePath": "_content/MovieMania",
+      "RelativePath": "assets/images/tmdb.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\tmdb.png"
     },
     {
       "Identity": "D:\\C#\\practice\\MovieMania\\wwwroot\\assets\\images\\unnamed.jpg",

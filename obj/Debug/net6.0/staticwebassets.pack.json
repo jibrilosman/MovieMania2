@@ -61,6 +61,10 @@
       "PackagePath": "staticwebassets\\assets\\images\\superhero.jpg"
     },
     {
+      "Id": "D:\\C#\\practice\\MovieMania\\wwwroot\\assets\\images\\tmdb.png",
+      "PackagePath": "staticwebassets\\assets\\images\\tmdb.png"
+    },
+    {
       "Id": "D:\\C#\\practice\\MovieMania\\wwwroot\\assets\\images\\unnamed.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\unnamed.jpg"
     },
